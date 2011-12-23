@@ -1,0 +1,12 @@
+Changes
+lib/SQL/Maker/DBICLike.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/100_base.t
+t/101_reduce_parentheses.t
+t/200_complex.t
+t/201_abstract_compt.t
+xt/pod-coverage.t
+xt/pod.t
